@@ -1,2 +1,2 @@
 # RemoteCampus
-Simple web scrapper made in C++ for Campus ITBA
+Simple web scrapper made for Campus ITBA
